@@ -1,0 +1,17 @@
+.movie-list-item {
+  display: flex;
+  background-color: azure;
+  border: 1px ridge gray;
+  border-radius: 2px;
+  padding: 10px;
+  min-height: 30px;
+  font: italic small-caps bold 16px/30px Georgia, serif;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+}
+
+.movie-list {
+  background-color: rgb(164, 232, 235);
+  padding: 10px;
+}

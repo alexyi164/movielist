@@ -12,5 +12,5 @@ var sampleMovies = [
 ];
 
 ReactDOM.render(
-  <App sampleMovies={sampleMovies}/>, document.getElementById('app')
+  <App movies={sampleMovies}/>, document.getElementById('app')
 )
